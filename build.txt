@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=ikon.ico --hidden-import=mysql.connector --hidden-import=mysql.connector.locales.eng.client_error --hidden-import=mysql.connector.plugins.mysql_native_password posrt2.py

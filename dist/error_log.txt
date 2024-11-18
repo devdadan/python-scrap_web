@@ -1,0 +1,55 @@
+2024-08-07 12:08:14.173834: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-08-08 14:02:08.638217: An error occurred: Message: Could not locate element with visible text: Semua Region
+
+2024-08-10 11:01:07.510190: An error occurred: Message: Failed to decode response from marionette
+
+2024-09-25 19:02:41.670484: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-25 19:32:38.890634: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-25 20:05:32.562825: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-09-26 20:32:39.138540: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-26 21:02:40.056082: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-27 15:07:38.932900: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-27 16:32:40.531864: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-27 19:02:41.215817: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-27 20:32:40.695653: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-27 21:02:40.429221: Element not found within the provided time. Error: Alert Text: None
+Message: Dismissed user prompt dialog: Cannot find column [CABANG].
+
+2024-09-30 12:07:55.457788: Element not found within the provided time. Error: Message: 
+
+2024-10-24 10:02:41.065325: Element not found within the provided time. Error: Message: 
+
+2024-10-24 10:07:54.686799: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-10-24 19:35:15.886970: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-10-24 19:40:30.903430: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-10-24 19:45:43.879891: An error occurred: Message: Navigation timed out after 300000 ms
+
+2024-10-29 16:00:18.436838: An error occurred: Message: Could not locate element with visible text: Semua Region
+
+2024-10-31 10:12:41.722934: Element not found within the provided time. Error: Message: 
+
+2024-10-31 11:11:27.943234: Element not found within the provided time. Error: Message: 
+
+2024-10-31 13:12:21.844044: An error occurred: Message: 
+
